@@ -1,0 +1,36 @@
+[ 2017-02-09T09:21:01+08:00 ] ::1 /TP/test/index.php/home/Index/setting
+ERR: 非法操作:setting
+
+[ 2017-02-09T09:21:55+08:00 ] ::1 /TP/test/index.php/home/Index/setting
+ERR: 模板不存在:./Myweb/Home/View/index/setting.html
+
+[ 2017-02-09T09:22:10+08:00 ] ::1 /TP/test/index.php/home/Index/setting
+ERR: 模板不存在:./Myweb/Home/View/index/setting.html
+
+[ 2017-02-09T09:24:11+08:00 ] ::1 /tp/test/index.php/home/index/MyWB.html
+ERR: 非法操作:mywb
+
+[ 2017-02-09T09:26:47+08:00 ] ::1 /tp/test/index.php/home/Index/styles/global.css
+ERR: 非法操作:styles
+
+[ 2017-02-09T09:26:47+08:00 ] ::1 /tp/test/index.php/home/Index/script/iframeauto.js
+ERR: 非法操作:script
+
+[ 2017-02-09T09:26:47+08:00 ] ::1 /tp/test/index.php/home/Index/styles/setting.css
+ERR: 非法操作:styles
+
+[ 2017-02-09T09:26:47+08:00 ] ::1 /tp/test/index.php/home/Index/account.html
+ERR: 非法操作:account
+
+[ 2017-02-09T09:38:15+08:00 ] ::1 /tp/test/index.php/home/Index/script/iframeauto.js
+ERR: 非法操作:script
+
+[ 2017-02-09T09:38:15+08:00 ] ::1 /tp/test/index.php/home/Index/account.html
+ERR: 非法操作:account
+
+[ 2017-02-09T09:38:49+08:00 ] ::1 /tp/test/index.php/home/Index/account.html
+ERR: 非法操作:account
+
+[ 2017-02-09T09:38:53+08:00 ] ::1 /tp/test/index.php/home/Index/account.html
+ERR: 非法操作:account
+

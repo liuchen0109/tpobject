@@ -1,0 +1,726 @@
+[ 2017-02-08T11:22:56+08:00 ] ::1 /tp/test/index.php/home/index/script/CustomerIndex.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:22:56+08:00 ] ::1 /tp/test/index.php/home/index/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:22:56+08:00 ] ::1 /tp/test/index.php/home/index/script/jquery-1.6.2.min.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:23:52+08:00 ] ::1 /tp/test/index.php/home/index/script/CustomerIndex.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:23:52+08:00 ] ::1 /tp/test/index.php/home/index/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:23:52+08:00 ] ::1 /tp/test/index.php/home/index/script/jquery-1.6.2.min.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:25:44+08:00 ] ::1 /tp/test/index.php/home/index/script/jquery-1.6.2.min.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:25:44+08:00 ] ::1 /tp/test/index.php/home/index/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:25:44+08:00 ] ::1 /tp/test/index.php/home/index/script/CustomerIndex.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:26:39+08:00 ] ::1 /tp/test/index.php/home/index/script/CustomerIndex.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:26:39+08:00 ] ::1 /tp/test/index.php/home/index/script/jquery-1.6.2.min.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:26:39+08:00 ] ::1 /tp/test/index.php/home/index/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:27:01+08:00 ] ::1 /tp/test/index.php/home/index/CustomerIndex.html
+ERR: 非法操作:customerindex
+
+[ 2017-02-08T11:28:27+08:00 ] ::1 /tp/test/index.php/home/index/file
+ERR: 非法操作:file
+
+[ 2017-02-08T11:29:25+08:00 ] ::1 /tp/test/index.php/home/index/CustomerIndex.html
+ERR: 非法操作:customerindex
+
+[ 2017-02-08T11:29:28+08:00 ] ::1 /tp/test/index.php/home/index/MyWB.html
+ERR: 非法操作:mywb
+
+[ 2017-02-08T11:30:17+08:00 ] ::1 /tp/test/index.php/home/index/CustomerIndex.html
+ERR: 非法操作:customerindex
+
+[ 2017-02-08T11:33:18+08:00 ] ::1 /tp/test/index.php/home/index/styles/global.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T11:33:18+08:00 ] ::1 /tp/test/index.php/home/index/styles/CustomerIndex.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T11:33:18+08:00 ] ::1 /tp/test/index.php/home/index/script/jquery-1.6.2.min.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:33:18+08:00 ] ::1 /tp/test/index.php/home/index/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:33:18+08:00 ] ::1 /tp/test/index.php/home/index/script/CustomerIndex.js
+ERR: 非法操作:script
+
+[ 2017-02-08T11:34:33+08:00 ] ::1 /tp/test/index.php/home/index/MyWB.html
+ERR: 非法操作:mywb
+
+[ 2017-02-08T11:35:47+08:00 ] ::1 /tp/test/index.php/home/index/styles/MyWB.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T11:35:47+08:00 ] ::1 /tp/test/index.php/home/index/styles/global.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T11:35:56+08:00 ] ::1 /tp/test/index.php/home/index/styles/global.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T11:35:56+08:00 ] ::1 /tp/test/index.php/home/index/styles/MyWB.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T11:37:28+08:00 ] ::1 /tp/test/index.php/home/Index/MyWB.html
+ERR: 非法操作:mywb
+
+[ 2017-02-08T11:37:30+08:00 ] ::1 /tp/test/index.php/home/Login/logout
+ERR: 无法加载控制器:Login
+
+[ 2017-02-08T11:40:46+08:00 ] ::1 /tp/test/index.php/home/Login/logout
+ERR: 无法加载控制器:Login
+
+[ 2017-02-08T11:42:33+08:00 ] ::1 /tp/test/index.php/home/login/login
+ERR: 无法加载控制器:Login
+
+[ 2017-02-08T11:46:10+08:00 ] ::1 /tp/test/index.php/home/Login/logout
+ERR: 无法加载控制器:Login
+
+[ 2017-02-08T11:47:29+08:00 ] ::1 /tp/test/index.php/home/Login/logout
+ERR: 无法加载控制器:Login
+
+[ 2017-02-08T11:47:44+08:00 ] ::1 /tp/test/index.php/home/Login/logout
+ERR: 无法加载控制器:Login
+
+[ 2017-02-08T11:51:54+08:00 ] ::1 /tp/test/index.php/home/Login/logout
+ERR: 无法加载控制器:Login
+
+[ 2017-02-08T11:53:06+08:00 ] ::1 /tp/test/index.php/home/login/login.html
+ERR: 无法加载控制器:Login
+
+[ 2017-02-08T20:14:58+08:00 ] ::1 /tp/test/index.php/home/login/styles/global.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T20:14:58+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:14:58+08:00 ] ::1 /tp/test/index.php/home/login/styles/index.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T20:14:58+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:15:23+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:15:23+08:00 ] ::1 /tp/test/index.php/home/login/styles/global.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T20:15:24+08:00 ] ::1 /tp/test/index.php/home/login/styles/index.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T20:15:24+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:15:29+08:00 ] ::1 /tp/test/index.php/home/login/styles/global.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T20:15:29+08:00 ] ::1 /tp/test/index.php/home/login/styles/index.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T20:15:29+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:15:29+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:15:49+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:15:49+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:15:49+08:00 ] ::1 /tp/test/index.php/home/login/styles/index.css
+ERR: 非法操作:styles
+
+[ 2017-02-08T20:16:05+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:16:05+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:16:06+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:16:06+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:16:06+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:16:06+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:16:06+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:16:06+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:16:47+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:16:47+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:17:23+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:17:23+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:17:24+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:17:24+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:17:27+08:00 ] ::1 /tp/test/index.php/home/login/__MoDULE__/Login/login
+ERR: 非法操作:__module__
+
+[ 2017-02-08T20:17:42+08:00 ] ::1 /tp/test/index.php/home/login/__MoDULE__/Login/login
+ERR: 非法操作:__module__
+
+[ 2017-02-08T20:18:08+08:00 ] ::1 /tp/test/index.php/home/login/SBGG.html
+ERR: 非法操作:sbgg
+
+[ 2017-02-08T20:18:10+08:00 ] ::1 /tp/test/index.php/home/login/__MoDULE__/Login/login
+ERR: 非法操作:__module__
+
+[ 2017-02-08T20:18:16+08:00 ] ::1 /tp/test/index.php/home/login/__MoDULE__/Login/login
+ERR: 非法操作:__module__
+
+[ 2017-02-08T20:18:40+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:18:40+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:27+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:27+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:42+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:42+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:48+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:48+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:55+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:55+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:56+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:56+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:56+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:19:56+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:21:19+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:21:19+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:21:20+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:21:20+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:21:21+08:00 ] ::1 /tp/test/index.php/home/login/__MoDULE__/Login/login
+ERR: 非法操作:__module__
+
+[ 2017-02-08T20:22:27+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:22:27+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:22:28+08:00 ] ::1 /tp/test/index.php/home/login/__MoDULE__/Login/login
+ERR: 非法操作:__module__
+
+[ 2017-02-08T20:27:16+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:27:16+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:27:17+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:27:17+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:19+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:19+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:20+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:20+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:21+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:21+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:22+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:22+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:26+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:26+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:39+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:28:39+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:29:41+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:29:41+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:29:48+08:00 ] ::1 /tp/test/index.php/home/login/CustomerIndex.html
+ERR: 非法操作:customerindex
+
+[ 2017-02-08T20:30:41+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:30:41+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:31:35+08:00 ] ::1 /tp/test/index.php/home/login/register.html
+ERR: 非法操作:register
+
+[ 2017-02-08T20:31:51+08:00 ] ::1 /tp/test/index.php/home/login/register.html
+ERR: 非法操作:register
+
+[ 2017-02-08T20:32:03+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:32:03+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:32:11+08:00 ] ::1 /tp/test/index.php/home/login/__MoDULE__/Login/login
+ERR: 非法操作:__module__
+
+[ 2017-02-08T20:32:43+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:32:43+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:32:43+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:32:43+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:32:45+08:00 ] ::1 /tp/test/index.php/home/login/__MoDULE__/Login/login
+ERR: 非法操作:__module__
+
+[ 2017-02-08T20:33:00+08:00 ] ::1 /tp/test/index.php/home/login/CustomerIndex.html
+ERR: 非法操作:customerindex
+
+[ 2017-02-08T20:33:25+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:33:25+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:33:26+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:33:26+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:33:27+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:33:27+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:34:48+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:34:48+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:36:05+08:00 ] ::1 /tp/test/index.php/home/Login/CustomerIndex.html
+ERR: 非法操作:customerindex
+
+[ 2017-02-08T20:36:09+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:36:09+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:39:05+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:39:05+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:40:18+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:40:18+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:40:22+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:40:31+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:40:48+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:40:48+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:40:52+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:41:43+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:41:43+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:41:49+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:41:53+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:41:53+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:41:54+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:41:54+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:41:54+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:41:54+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:42:04+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:42:48+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:42:48+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:42:48+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:42:48+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:42:55+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:43:23+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:43:23+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:43:27+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:46:20+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:46:20+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:46:24+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:49:07+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:50:13+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:50:13+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:50:17+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:50:28+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:50:28+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:50:31+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:50:31+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:54:12+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:54:12+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:54:15+08:00 ] ::1 /tp/test/index.php/home/Login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:54:15+08:00 ] ::1 /tp/test/index.php/home/Login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:54:18+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T20:57:26+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:57:26+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T20:57:33+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T21:03:35+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T21:03:52+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:03:52+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:03:55+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T21:04:23+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 无法加载控制器:Login
+
+[ 2017-02-08T21:05:23+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T21:08:16+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T21:09:49+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T21:14:49+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T21:16:19+08:00 ] ::1 /tp/test/index.php/home/login/check
+ERR: 没有定义数据库配置
+
+[ 2017-02-08T21:19:59+08:00 ] ::1 /TP/test/
+ERR: 模板不存在:./Myweb/Home/View/Index/index.html
+
+[ 2017-02-08T21:20:54+08:00 ] ::1 /TP/test/index.php?m=home&C=index&a=index
+ERR: 模板不存在:./Myweb/Home/View/Index/index.html
+
+[ 2017-02-08T21:21:50+08:00 ] ::1 /TP/test/index.php?m=home&C=index&a=index
+ERR: 模板不存在:./Myweb/Home/View/Index/index.html
+
+[ 2017-02-08T21:21:52+08:00 ] ::1 /TP/test/index.php?m=home&C=index&a=index
+ERR: 模板不存在:./Myweb/Home/View/Index/index.html
+
+[ 2017-02-08T21:21:53+08:00 ] ::1 /TP/test/index.php?m=home&C=index&a=index
+ERR: 模板不存在:./Myweb/Home/View/Index/index.html
+
+[ 2017-02-08T21:22:40+08:00 ] ::1 /TP/test/index.php/home/index/index.html
+ERR: 模板不存在:./Myweb/Home/View/Index/index.html
+
+[ 2017-02-08T21:27:48+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:27:48+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:27:55+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:27:55+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:28:46+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:28:46+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:29:18+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:29:18+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:31:21+08:00 ] ::1 /tp/test/index.php/home/index/check
+ERR: 非法操作:check
+
+[ 2017-02-08T21:31:54+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:31:54+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:31:55+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:31:55+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:32:04+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:32:04+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:32:44+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:32:44+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:32:45+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:32:45+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:32:45+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:32:45+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:32:47+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:32:47+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:33:15+08:00 ] ::1 /tp/test/index.php/home/index/index.html
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:33:18+08:00 ] ::1 /TP/test/
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:33:19+08:00 ] ::1 /TP/test/
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:34:00+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:34:00+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:34:06+08:00 ] ::1 /tp/test/index.php/home/index/index.html
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:34:09+08:00 ] ::1 /tp/test/index.php/home/index/index.html
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:35:15+08:00 ] ::1 /tp/test/index.php/home/index/index.html
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:35:18+08:00 ] ::1 /tp/test/index.php/home/index/index.html
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:35:23+08:00 ] ::1 /tp/test/index.php/home/index/index.html
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:35:35+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:35:35+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:35:42+08:00 ] ::1 /tp/test/index.php/home/index/index.html
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:35:45+08:00 ] ::1 /tp/test/index.php/home/index/index.html
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:35:55+08:00 ] ::1 /tp/test/index.php/home/index/index.
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:35:57+08:00 ] ::1 /tp/test/index.php/home/index/index
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:36:02+08:00 ] ::1 /tp/test/index.php/home/index/index
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:36:14+08:00 ] ::1 /TP/test/index.php/home/index/index
+ERR: 模板不存在:./Myweb/Home/View/index/index.html
+
+[ 2017-02-08T21:36:24+08:00 ] ::1 /TP/test/index.php/home/admin/index
+ERR: 无法加载控制器:Admin
+
+[ 2017-02-08T21:37:26+08:00 ] ::1 /tp/test/index.php/home/login/script/index.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:37:26+08:00 ] ::1 /tp/test/index.php/home/login/script/trim.js
+ERR: 非法操作:script
+
+[ 2017-02-08T21:38:57+08:00 ] ::1 /tp/test/index.php/home/index/MyWB.html
+ERR: 非法操作:mywb
+
